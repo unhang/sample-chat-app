@@ -1,0 +1,15 @@
+.message {
+  margin: 16px;
+  background: rgb(231, 235, 255);
+  padding: 8px;
+  border-radius: 6px;
+
+  &__name {
+    font-weight: bold;
+    color: royalblue;
+  }
+  &__content {
+    font-weight: 100;
+    color: rgb(76, 84, 109);
+  }
+}
